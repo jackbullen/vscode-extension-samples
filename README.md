@@ -1,3 +1,7 @@
+https://code.visualstudio.com/api/references/vscode-api#languages.registerCompletionItemProvider
+
+https://code.visualstudio.com/api/language-extensions/programmatic-language-features
+
 <h1 align="center">
 VS Code Extension Samples
 </h1>
